@@ -4,7 +4,7 @@
 
 - This is a readme file in markdown format (readme.md) which should be in your github/gitlab repository. later you can add your project files into the repository.
 
-- Fork this project and edit this file for your blog
+- Fork this project and edit this file for your blog.
 
 - Add your images in the `images` folder of this repository . 
   >  `![](images/imagename.jpg)`
@@ -12,7 +12,7 @@
 - You can [creatively ](https://pandao.github.io/editor.md/en.html)
  add more information so that the reader will get the most out of it.
 
-- remove all the instructions before posting the blog
+- remove all the instructions before posting the blog.
 
 
 
